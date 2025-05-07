@@ -18,7 +18,7 @@
 
 ## Connect with Me
 [![Website](https://img.shields.io/badge/Website-Visit-black)](https://inevares.com)
-[![Dribbble](https://img.shields.io/badge/Dribbble-Follow-pink)](https://dribbble.com/i9i9)
+[![Dribbble](https://img.shields.io/badge/Dribbble-Follow-red)](https://dribbble.com/i9i9)
 
 ---
 ⭐️ From [i9-9](https://github.com/i9-9)
