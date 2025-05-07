@@ -16,12 +16,6 @@
 - UI/UX: Figma
 - Graphics: Adobe Illustrator, Adobe Photoshop
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=i9-9&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i9-9&layout=compact&theme=radical)
-
 ## Connect with Me
 [![Website](https://img.shields.io/badge/Website-Visit-black)](https://inevares.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ivan-nevares/)
