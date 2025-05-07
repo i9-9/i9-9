@@ -18,7 +18,6 @@
 
 ## Connect with Me
 [![Website](https://img.shields.io/badge/Website-Visit-black)](https://inevares.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ivan-nevares/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Follow-pink)](https://dribbble.com/i9i9)
 
 ---
