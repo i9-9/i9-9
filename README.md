@@ -1,9 +1,9 @@
-# Hi - I'm Iván.
+# Hi 
 
 ## About Me
-- 🔭 I'm a designer with a technical leg. I like to express my creativity through code, thinking of solutions that look neat and solve problems.
-- 🌱 I'm currently learning about back-end in general, getting better at front-end, and studying graphic design at the university.
-- 📫 You can reach me at ivannevares9@gmail.com
+-  I'm a designer with a technical leg. I like to express my creativity through code, thinking of solutions that look neat and solve problems.
+-  I'm currently learning about back-end in general, getting better at front-end, and studying graphic design at the university.
+-  You can reach me at ivannevares9@gmail.com
 
 ## Tech Stack
 ### Development
@@ -21,4 +21,4 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-Follow-red)](https://dribbble.com/i9i9)
 
 ---
-⭐️ From [i9-9](https://github.com/i9-9)
+
