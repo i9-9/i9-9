@@ -1,7 +1,7 @@
 # Ivan Nevares
 
 ## Overview  
-I'm a designer who codes. I focus on building clean, functional interfaces and exploring the full stack to understand how things work.
+Designer/Developer. I focus on building clean, functional interfaces and exploring the full stack to understand how things work.
 
 ---
 
