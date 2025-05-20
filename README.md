@@ -2,6 +2,7 @@
 
 ## Overview  
 Designer/Developer. I focus on building clean, functional interfaces and exploring the full stack to understand how things work.
+Projects I've been working on lately include design and development for artist portfolios and e-commerce sites.
 
 ---
 
