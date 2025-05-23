@@ -1,9 +1,9 @@
 ## Stack  
 
 ### Development  
-- **Frontend**: Next.js, React, Tailwind CSS, Framer Motion  
+- **Frontend**: Next.js, React, Tailwind CSS, Motion, GSAP  
 - **Backend**: Node.js  
-- **Database**: Supabase  
+- **Database**: Supabase
 - **Version Control**: Git  
 
 ### Design  
