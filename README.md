@@ -1,8 +1,3 @@
-# Designer/Developer
-
----
-
-
 ## Stack  
 
 ### Development  
