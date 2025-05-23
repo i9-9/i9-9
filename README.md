@@ -1,19 +1,6 @@
-# Ivan Nevares
+#Designer/Developer
 
-## Overview  
-Designer/Developer. I focus on building clean, functional interfaces and exploring the full stack to understand how things work.
-Projects I've been working on lately include design and development for artist portfolios and e-commerce sites.
-
----
-
-## Currently  
-- Studying Graphic Design at university  
-- Learning back-end fundamentals  
-- Improving front-end skills
-
----
-
-## 🛠️ Tech Stack  
+## Stack  
 
 ### Development  
 - **Frontend**: Next.js, React, Tailwind CSS, Framer Motion  
